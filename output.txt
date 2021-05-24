@@ -1,0 +1,4 @@
+Polynomial 1 : 2.61032
+Polynomial 2 : No Root in given range
+Polynomial 3 : No Root in given range
+Polynomial 4 : 1.65062
